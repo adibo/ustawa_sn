@@ -13,7 +13,7 @@ Dokument sejmowy następnie dodałem do repozytorium na github'ie (to znany info
 
 Wyniki
 Rezultaty porównania obu wersji pliku z repozytorium można oglądać tu:
-https://github.com/…/08019f206dddcda3298b4a9b49a3988a3457b3…
+https://github.com/adibo/ustawa_sn/commit/08019f206dddcda3298b4a9b49a3988a3457b32d
 Sami oceńcie czy dokumenty są takie same.
 
 Analiza
@@ -27,4 +27,4 @@ Został pobrany ze strony http://sejm.gov.pl/Sejm8.nsf/PrzebiegProc.xsp?nr=1727 
 http://orka.sejm.gov.pl/opinie8.nsf/dok?OpenAgent&1727_u (1727_u.pdf, md5sum: c5ca9f4474026d5357a2c9ec50d3c856)
 
 Dokument senacki:
-Został pobrany ze strony http://www.senat.gov.pl/…/sen…/posiedzenia/tematy,490,1.html. Link do dokumentu: http://www.senat.gov.pl/…/senatp…/3652/drukisejmowe/1727.pdf (1727.pdf, md5sum: eca25c7877ab39c4c9230dbbad1726b1)
+Został pobrany ze strony http://www.senat.gov.pl/prace/senat/posiedzenia/tematy,490,1.html. Link do dokumentu: http://www.senat.gov.pl/download/gfx/senat/pl/senatuchwaly/3292/plik/567uch.pdf (1727.pdf, md5sum: eca25c7877ab39c4c9230dbbad1726b1)
